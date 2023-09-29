@@ -136,11 +136,6 @@ Marcar "***Don't show this message again***"
 
 
 
-ADSASD
-
-
-
-
 ![Alt text](./images/image-52.png)
 
 ![Alt text](./images/image-53.png)
