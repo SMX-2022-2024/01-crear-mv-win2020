@@ -1,5 +1,7 @@
 # 01-crear-mv-win2020
 
+<!-- https://blogs.sap.com/2020/06/25/how-to-install-the-.net-framework-3.5-on-windows-server-2016-and-later/ -->
+
 <details>
   <summary>Index</summary>
 
@@ -129,7 +131,15 @@ Marcar "***Don't show this message again***"
 
 ![Alt text](./images/image-50.png)
 
-![Alt text](./images/image-51.png)
+
+![Alt text](image-3.png)
+
+
+
+ADSASD
+
+
+
 
 ![Alt text](./images/image-52.png)
 
@@ -168,3 +178,15 @@ Marcar "***Don't show this message again***"
 
 ![Alt text](./images/image-71.png)
 
+## Restore
+
+![Alt text](image.png)
+
+![Alt text](image-2.png)
+
+
+Get-WindowsFeature -Name "NET-Framework-Core"
+
+![Alt text](image-1.png)
+
+Install-WindowsFeature -Name "NET-Framework-Core" -Source "C:\Sources\SxS"
