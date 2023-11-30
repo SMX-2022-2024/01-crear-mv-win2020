@@ -2,8 +2,7 @@
 
 <!-- https://blogs.sap.com/2020/06/25/how-to-install-the-.net-framework-3.5-on-windows-server-2016-and-later/ -->
 
-<details>
-  <summary>Index</summary>
+## Index
 
 1. [Creació de la màquina virtual](./README.md#creació-de-la-màquina-virtual)
 
@@ -19,10 +18,9 @@
 
 1. [Instal·lar la *caracteristica* de Windows **```.NET Framework 3.5```**](./README.md#installar-la-caracteristica-de-windows-net-framework-35)
 
-</details>
 
 
-## Creació de la màquina virtual
+## **1.** Creació de la màquina virtual
 
 ![Alt text](./images/image-1.png)
 
