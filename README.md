@@ -2,7 +2,7 @@
 
 <!-- https://blogs.sap.com/2020/06/25/how-to-install-the-.net-framework-3.5-on-windows-server-2016-and-later/ -->
 
-## Index
+## Índex
 
 **1.** [Definició de la màquina virtual](#1-definició-de-la-màquina-virtual)
 
@@ -23,6 +23,8 @@
 
 
 ## **1.** Definició de la màquina virtual
+
+#### [torna a l'Índex](#índex)
 
 Escull un **nom**, la carpeta per la **ubicació de la MV**, i: 
 
@@ -79,6 +81,8 @@ A ser possible, és a dir, depenent del vostre portàtil, us recomano com a mín
 * pressiona <kbd><u>C</u>reate</kbd> per crear el disc dur.
 
 ## **2.**  Configuració de les diferents opcions de la màquina virtual
+
+#### [torna a l'Índex](#índex)
 
 Un cop ja tenim creada la **definició** i el **disc dur** de la màquina virtual, procedirem a modificar diferents detalls de la configuració.
 
