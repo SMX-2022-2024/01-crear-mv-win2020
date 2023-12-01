@@ -6,7 +6,7 @@
 
 **1.** [Definició de la màquina virtual](./README.md#1-definició-de-la-màquina-virtual)
 
-
+**2.** [Configuració de les diferents opcions de la màquina virtual](#2-configuració-de-les-diferents-opcions-de-la-màquina-virtual)
 
 1. [Instal·lació del sistema operatiu](./README.md#installació-del-sistema-operatiu)
 
@@ -78,7 +78,7 @@ A ser possible, és a dir, depenent del vostre portàtil, us recomano com a mín
 
 * pressiona <kbd><u>C</u>reate</kbd> per crear el disc dur.
 
-### Configuració de les diferents opcions de la màquina virtual
+## **2.**  Configuració de les diferents opcions de la màquina virtual
 
 Un cop ja tenim creada la **definició** i el **disc dur** de la màquina virtual, procedirem a modificar diferents detalls de la configuració.
 
