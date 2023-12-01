@@ -4,7 +4,7 @@
 
 ## Index
 
-**1.** [Definició de la màquina virtual](./README.md#1-definició-de-la-màquina-virtual)
+**1.** [Definició de la màquina virtual](#1-definició-de-la-màquina-virtual)
 
 **2.** [Configuració de les diferents opcions de la màquina virtual](#2-configuració-de-les-diferents-opcions-de-la-màquina-virtual)
 
