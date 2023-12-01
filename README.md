@@ -4,7 +4,9 @@
 
 ## Index
 
-1. [Creació de la màquina virtual](./README.md#creació-de-la-màquina-virtual)
+**1.** [Definició de la màquina virtual](./README.md#1-definició-de-la-màquina-virtual)
+
+
 
 1. [Instal·lació del sistema operatiu](./README.md#installació-del-sistema-operatiu)
 
@@ -20,25 +22,81 @@
 
 
 
-## **1.** Creació de la màquina virtual
+## **1.** Definició de la màquina virtual
 
-![Alt text](./images/image-1.png)
+Escull un **nom**, la carpeta per la **ubicació de la MV**, i: 
 
-![Alt text](./images/image-2.png)
+* **Type: ```Microsoft Windows```**
 
-![Alt text](./images/image-3.png)
+* **Version: ```Other Windows (64-bits)```**
 
-![Alt text](./images/image-4.png)
+![Alt text](./images/crear-mv-01-nom.png)
 
-![Alt text](./images/image-6.png)
+### Mida de la memòria RAM
 
-![Alt text](./images/image-7.png)
+A ser possible, és a dir, depenent del vostre portàtil, us recomano com a mínim una mica més de **```4 GB``` de RAM**.
 
-![Alt text](./images/image-9.png)
+* Selecciona **```4128 MB```** i 
 
-![Alt text](./images/image-8.png)
+* pressiona <kbd><u>N</u>ext</kbd> continuar.
 
-![Alt text](./images/image-10.png)
+![Alt text](./images/crear-mv-02-def-ram.png)
+
+### Disc dur
+
+#### Creació del *disc dur*
+
+![Alt text](./images/crear-mv-03-def-hd.png)
+
+* Selecciona <u>**```C```**</u>**```reate a virtual hard disk now```**, i
+
+* pressiona <kbd>Create</kbd> per crear-lo ara.
+
+#### Selecció del tipus de disc dur
+
+![Alt text](./images/crear-mv-04-def-hd-type.png)
+
+* Selecciona **```VDI (VirtualBox Disk Image)```** i
+
+* pressiona <kbd><u>N</u>ext</kbd> continuar.
+
+#### Emmagatzematge al disc dur físic
+
+![Alt text](./images/crear-mv-05-def-hd-allocated.png)
+
+* Selecciona **```Dynamically allocated```** (***Assignat dinàmicament***) i
+
+* pressiona <kbd><u>N</u>ext</kbd> continuar.
+
+#### Ubicació i mida del fitxer
+
+* **Mida**: **```100 GB```** 
+
+![Alt text](./images/crear-mv-06-def-hd-location-size.png)
+
+* Selecciona **```100 GB```** i
+
+* pressiona <kbd><u>C</u>reate</kbd> per crear el disc dur.
+
+### Configuració de les diferents opcions de la màquina virtual
+
+Un cop ja tenim creada la **definició** i el **disc dur** de la màquina virtual, procedirem a modificar diferents detalls de la configuració.
+
+![Alt text](./images/crear-mv-07-detalls.png)
+
+#### Interfícies de xarxa
+
+Per defecte una màquina virtual té només una interfície de xarxa i la té configurada com a **```NAT```**.
+
+![Alt text](./images/crear-mv-08-adptador1.png)
+
+Si passem a la pestanya del **segon adaptador de xarxa**.
+
+![Alt text](./images/crear-mv-09-adptador2.png)
+
+* Seleccionem **```Host-only Adapter```** i
+
+* passem a la pestanya del **tercer adaptador de xarxa**.
 
 ![Alt text](./images/image-12.png)
 
